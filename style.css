@@ -1,0 +1,92 @@
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+.name-highlight{
+    color: deeppink;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, lightpink, deeppink);
+    padding: 10px 20px;
+    border-radius: 5px; 
+    color: white;
+    font-weight: 800;
+}
+span{
+    color: deeppink;
+}
+.working-project{
+    box-shadow: 10px 10px 40px gray;
+    border: 2px rgba(255, 182, 192, 0.877);
+    border-radius: 15px;
+    height: 100%;
+    width: 28%;
+    float: left;
+    margin: 2% 2%;
+    padding-right: 1%;
+}
+.working-project img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.heading{
+    color: white;
+    text-align: left;
+    margin-left: 10%; 
+    margin-top: 8%;  
+}
+.link-chat{ 
+    font-size: 15px;
+     text-decoration: none;
+    background-image: linear-gradient(90deg, lightpink, deeppink);
+    padding: 20px 30px;
+    border-radius: 5px; 
+    color: white;
+    font-weight: 800;
+    margin-left: 50%;
+    margin-top: 10%;
+}
+.backimg{
+    background: url("images/Group_33094_1.png");
+    width: 70%;
+    margin: 15%;
+    height:200px;
+    border-radius: 70px;
+}
+h5{
+    text-align: center;
+    color: gray;
+}
+.hello{
+    margin-top: 20px;
+    text-align: center;  
+}
+.container{
+    text-align: center; 
+}
+.container img{
+    width: 3%;
+    margin-top: 20px;
+}
+   
